@@ -1,0 +1,18 @@
+{
+  "name": "dependabot-vulnerable-dependency-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Educational demo manifest with intentionally outdated dependencies for GitHub Dependabot alerts.",
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "echo \"Dependency-alert demo only. Do not deploy.\""
+  },
+  "dependencies": {
+    "axios": "0.21.1",
+    "lodash": "4.17.19",
+    "minimist": "0.0.8",
+    "node-fetch": "2.6.6",
+    "qs": "6.5.2",
+    "serialize-javascript": "2.1.1"
+  }
+}
