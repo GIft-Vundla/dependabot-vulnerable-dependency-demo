@@ -10,7 +10,7 @@
   "dependencies": {
     "axios": "0.21.1",
     "lodash": "4.17.19",
-    "minimist": "0.0.8",
+    "minimist": "1.2.8",
     "node-fetch": "2.6.6",
     "qs": "6.5.2",
     "serialize-javascript": "2.1.1"
