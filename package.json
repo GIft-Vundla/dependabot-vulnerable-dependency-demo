@@ -11,7 +11,7 @@
     "axios": "0.21.1",
     "lodash": "4.17.19",
     "minimist": "0.0.8",
-    "node-fetch": "2.6.6",
+    "node-fetch": "3.3.2",
     "qs": "6.5.2",
     "serialize-javascript": "2.1.1"
   }
